@@ -1,0 +1,20 @@
+.coords {
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+.position {
+  margin-top: 100px;
+  padding: 1rem 0 2rem 0;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  background-color: #666;
+  border-radius: 10px;
+}
+.coords h1 {
+  padding-top: 50px;
+  font-size: 30px;
+  color: aliceblue;
+}
